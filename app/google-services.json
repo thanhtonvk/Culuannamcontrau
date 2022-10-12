@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741131820784",
+    "firebase_url": "https://app-xe-bus-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "app-xe-bus",
+    "storage_bucket": "app-xe-bus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741131820784:android:348ea1e767802423d72c35",
+        "android_client_info": {
+          "package_name": "tta.edu.culuannamcontrau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741131820784-2i45rm0q85oer545kk3o3jh9bkitvom6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSAnpyQPaiimeM_bWL6DDhezkdrLyGSMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741131820784-2i45rm0q85oer545kk3o3jh9bkitvom6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
