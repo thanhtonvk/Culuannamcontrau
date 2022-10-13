@@ -41,7 +41,7 @@ public class Login extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-
+//        startActivity(new Intent(getApplicationContext(), LoadMoneyActivity.class));
         signup = findViewById(R.id.tvsignup);
         Email = findViewById(R.id.email);
         Password = findViewById(R.id.Password);

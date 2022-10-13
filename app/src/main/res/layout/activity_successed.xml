@@ -42,15 +42,16 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:gravity="center"
-            android:text="Please recharge your wallet to pay immediately"
+
             android:textSize="18sp" />
 
         <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_finish"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_margin="20dp"
             android:background="@color/primary"
-            android:text="Deposit money into your wallet"
+            android:text="Finish"
             android:textColor="@color/white" />
     </LinearLayout>
 
